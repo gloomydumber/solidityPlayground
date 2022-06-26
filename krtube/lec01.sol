@@ -1,5 +1,6 @@
-// SPDX-License-Identifier : GPL-30
-pragma solidity >= 0.7.0 < 0.9.0;
+// SPDX-License-Identifier: GPL-30
+// 라이센스 작성
+pragma solidity >= 0.7.0 < 0.9.0; // 버전 작성
 
 contract Hello{
   string public hi = "Hello Solidity";
